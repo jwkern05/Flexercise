@@ -1,3 +1,6 @@
-To run the CRUD app, leverage the following code:
+To run the CRUD app, clone the below public fork by
+leveraging the following code (lines 4-6) in the Mac Terminal application:
+
 git clone https://github.com/jwkern05/CRUD
-cd desktop/CRUD/app/products_app.py
+cd ~/desktop/Flexercise
+python3  /app/Flexercise.py
